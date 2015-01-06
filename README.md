@@ -1,4 +1,3 @@
-EADME
 
 Author : Nafees Ahmed Abdul
 
